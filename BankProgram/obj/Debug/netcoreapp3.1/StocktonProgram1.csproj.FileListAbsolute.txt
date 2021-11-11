@@ -1,0 +1,13 @@
+C:\Users\18436\Desktop\CourseWork\CPT244\Programs\StocktonProgram1\bin\Debug\netcoreapp3.1\StocktonProgram1.exe
+C:\Users\18436\Desktop\CourseWork\CPT244\Programs\StocktonProgram1\bin\Debug\netcoreapp3.1\StocktonProgram1.deps.json
+C:\Users\18436\Desktop\CourseWork\CPT244\Programs\StocktonProgram1\bin\Debug\netcoreapp3.1\StocktonProgram1.runtimeconfig.json
+C:\Users\18436\Desktop\CourseWork\CPT244\Programs\StocktonProgram1\bin\Debug\netcoreapp3.1\StocktonProgram1.runtimeconfig.dev.json
+C:\Users\18436\Desktop\CourseWork\CPT244\Programs\StocktonProgram1\bin\Debug\netcoreapp3.1\StocktonProgram1.dll
+C:\Users\18436\Desktop\CourseWork\CPT244\Programs\StocktonProgram1\bin\Debug\netcoreapp3.1\StocktonProgram1.pdb
+C:\Users\18436\Desktop\CourseWork\CPT244\Programs\StocktonProgram1\obj\Debug\netcoreapp3.1\StocktonProgram1.csproj.AssemblyReference.cache
+C:\Users\18436\Desktop\CourseWork\CPT244\Programs\StocktonProgram1\obj\Debug\netcoreapp3.1\StocktonProgram1.AssemblyInfoInputs.cache
+C:\Users\18436\Desktop\CourseWork\CPT244\Programs\StocktonProgram1\obj\Debug\netcoreapp3.1\StocktonProgram1.AssemblyInfo.cs
+C:\Users\18436\Desktop\CourseWork\CPT244\Programs\StocktonProgram1\obj\Debug\netcoreapp3.1\StocktonProgram1.csproj.CoreCompileInputs.cache
+C:\Users\18436\Desktop\CourseWork\CPT244\Programs\StocktonProgram1\obj\Debug\netcoreapp3.1\StocktonProgram1.dll
+C:\Users\18436\Desktop\CourseWork\CPT244\Programs\StocktonProgram1\obj\Debug\netcoreapp3.1\StocktonProgram1.pdb
+C:\Users\18436\Desktop\CourseWork\CPT244\Programs\StocktonProgram1\obj\Debug\netcoreapp3.1\StocktonProgram1.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StocktonProgram1/1.0.0": {
+        "runtime": {
+          "StocktonProgram1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StocktonProgram1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
